@@ -1080,8 +1080,6 @@ step
     .goto Ashenvale,64.6,75.3
     .complete 6544,1 --Take Silverwing Outpost.
 step
-    #sticky
-    #completewith next
 .goto Ashenvale,72.3,49.8,50 >>Run along the side of the river to here
 step
     >>Kill Satyrs in the area. Loot them for their Horns
